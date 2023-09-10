@@ -1,0 +1,89 @@
+[
+    {
+        "title":"DNMX",
+        "image":"https://assets.ajio.com/medias/sys_master/root/h9c/h4e/13694952439838/-1117Wx1400H-441007278-pink-MODEL.jpg",
+        "provider":"ajio.com",
+        "description":["Printed Shirt with Patch Pocket"],
+        "orgprice":"699",
+        "disprice":"336",
+        "saving":"363",
+        "discount":"52",
+        "link":"https://ekaro.in/enkr20210223s1279076"
+    },
+    {
+        "title":"AJIO High-Waist Short",
+        "image":"https://assets.ajio.com/medias/sys_master/root/hd2/he2/13157462900766/-1117Wx1400H-460298106-yellow-MODEL.jpg",
+        "provider":"ajio.com",
+        "description":["High-Waist Shorts with Buttons"],
+        "orgprice":"1799",
+        "disprice":"270",
+        "saving":"1529",
+        "discount":"85",
+        "link":"https://ekaro.in/enkr20210223s1279080"
+    },
+    {
+        "title":"ZINK LONDON",
+        "image":"https://assets.ajio.com/medias/sys_master/root/20201005/Bpql/5f7af485f997dd8c83577e1b/-1117Wx1400H-461448909-blue-MODEL.jpg",
+        "provider":"ajio.com",
+        "description":["Textured Pullover with Drop-Shoulder"],
+        "orgprice":"2599",
+        "disprice":"702",
+        "saving":"1897",
+        "discount":"73",
+        "link":"https://ekaro.in/enkr20210223s1279082"
+    },
+    {
+        "title":"FLAVIA CREATION",
+        "image":"https://assets.ajio.com/medias/sys_master/root/20200917/rTDw/5f638f34f997dd8c8341295f/-1117Wx1400H-461416794-pink-MODEL5.jpg",
+        "provider":"ajio.com",
+        "description":["Flared Palazzos with Insert Pockets"],
+        "orgprice":"1299",
+        "disprice":"390",
+        "saving":"909",
+        "discount":"70",
+        "link":"https://ekaro.in/enkr20210223s1279085"
+    },{
+        "title":"CLAFOUTIS",
+        "image":"https://assets.ajio.com/medias/sys_master/root/20201002/Lqd9/5f7628da7cdb8c21e37203f9/-1117Wx1400H-461446827-black-MODEL.jpg",
+        "provider":"ajio.com",
+        "description":["Cotton Crop Top"],
+        "orgprice":"599",
+        "disprice":"234",
+        "saving":"365",
+        "discount":"61",
+        "link":"https://ekaro.in/enkr20210223s1279086"
+    },
+    {
+        "title":"FIG",
+        "image":"https://assets.ajio.com/medias/sys_master/root/h9d/h68/15491583967262/-1117Wx1400H-441055643-pink-MODEL.jpg",
+        "provider":"ajio.com",
+        "description":["Speckled Round-Neck T-shirt"],
+        "orgprice":"399",
+        "disprice":"196",
+        "saving":"203",
+        "discount":"51",
+        "link":"https://ekaro.in/enkr20210223s1279089"
+    },
+    {
+        "title":"KIMAYRA",
+        "image":"https://assets.ajio.com/medias/sys_master/root/20200805/Vgmi/5f2ae6347cdb8ca2cf8e631d/-1117Wx1400H-461347902-beige-MODEL.jpg",
+        "provider":"ajio.com",
+        "description":["Floral Print Top with Tie-Up"],
+        "orgprice":"1499",
+        "disprice":"435",
+        "saving":"1064",
+        "discount":"71",
+        "link":"https://ekaro.in/enkr20210223s1279091"
+    },
+    {
+        "title":"KIMAYRA",
+        "image":"https://assets.ajio.com/medias/sys_master/root/h5f/h56/15429166792734/-1117Wx1400H-461097420-grey-MODEL.jpg",
+        "provider":"ajio.com",
+        "description":["Floral Print Straight Kurta with Tie-Up"],
+        "orgprice":"1999",
+        "disprice":"480",
+        "saving":"1519",
+        "discount":"76",
+        "link":"https://ekaro.in/enkr20210223s1279096"
+    }
+]

@@ -1,0 +1,71 @@
+.smLink{
+    color:black;
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    max-width: 48vw;
+    width: inherit;
+    /* background-color: #ffe4c4; */
+}
+.smLink:hover{
+    color: black;
+    text-decoration: none;
+    transform: scale(1.1);
+}
+
+
+
+.Text{
+    overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+   -webkit-line-clamp: 1; /* number of lines to show */
+   -webkit-box-orient: vertical;
+}
+
+.DiscountIndicator{
+    background-color: #00ff00;
+    color: #ffffff;
+    width: 50px;
+    height: 25px;
+    border-radius: 15%;
+    font-weight: 725;
+}
+
+.Link{
+    color: black;
+}
+.Link:hover{
+    color: black;
+    text-decoration: none;
+    /* text-decoration-color: greenyellow; */
+}
+
+.Link:active {
+    color:gray;
+    text-decoration: none;
+  }
+
+.Link2{
+    color:gray;
+}
+.Link2:hover{
+    text-decoration: none;
+    /* text-decoration-color: greenyellow; */
+}
+
+.Link2:active {
+    color:gray;
+    text-decoration: none;
+  }
+
+/* .smLink:hover:end{
+    color: black;
+    text-decoration: none;
+} */
+
+html,body{
+    scroll-behavior: smooth;
+    background-color: #2121;
+}

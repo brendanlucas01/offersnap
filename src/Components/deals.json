@@ -1,0 +1,42 @@
+[
+    {
+        "title":"First Offer",
+        "image":"https://images.unsplash.com/photo-1519073147904-23e655032ea3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1205&q=80",
+        "provider":"Amazon",
+        "description":"This is the descripton of first offer",
+        "orgprice":"4700",
+        "disprice":"3200",
+        "saving":"1500 (80%)",
+        "link":"https://www.amazon.in/URBN-Li-Polymer-Compact-Charge-Bright/dp/B08HDYQN4W?ref_=Oct_DLandingS_D_c2c46dd6_62&smid=A14CZOWI0VEHLG"
+    },
+    {
+        "title":"Second Offer",
+        "image":"https://images.unsplash.com/photo-1517994112540-009c47ea476b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1081&q=80",
+        "provider":"flipkart",
+        "description":"This is the description of second offer",
+        "orgprice":"4700",
+        "disprice":"3200",
+        "saving":"1500 (80%)",
+        "link":"https://www.amazon.in/URBN-20000-Li-Polymer-Compact-Charge/dp/B08HF4W2CT?ref_=Oct_DLandingS_D_c2c46dd6_68&smid=A14CZOWI0VEHLG"
+    },
+    {
+        "title":"Third Offer",
+        "image":"https://images.unsplash.com/photo-1552519507-da3b142c6e3d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+        "provider":"Myatra",
+        "description":"This is the description of third offer",
+        "orgprice":"4700",
+        "disprice":"3200",
+        "saving":"1500 (80%)",
+        "link":"https://www.amazon.in/URBN-10000-Super-Charging-Output/dp/B08HF1VXGX?ref_=Oct_DLandingS_D_c2c46dd6_69&smid=A14CZOWI0VEHLG"
+    },
+    {
+        "title":"Fourth Offer",
+        "image":"https://images.unsplash.com/photo-1552519507-da3b142c6e3d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+        "provider":"aliexpress",
+        "description":"This is the description of third offer",
+        "orgprice":"4700",
+        "disprice":"3200",
+        "saving":"1500 (80%)",
+        "link":"https://www.amazon.in/URBN-20000-22-5W-Charging-Output/dp/B08JVY7QYC?ref_=Oct_DLandingS_D_c2c46dd6_75&smid=A14CZOWI0VEHLG"
+    }
+]
